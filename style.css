@@ -1,0 +1,15 @@
+
+ /*NAVEGAÇÃO ENTRE PAGINAS*/
+ .navegação {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+}
+
+body {
+    background-color:#ffa1ee;
+ }
