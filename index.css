@@ -4,6 +4,10 @@
     padding: 20px 0;
 }
 
+.banerimage{
+    width: 100%;
+}
+
 .caixa {
     position: relative;
     width: 400px;
