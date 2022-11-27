@@ -5,7 +5,7 @@
 }
 
 .banerimage{
-    width: 1000px;
+    width: 100%;
 }
 
 .caixa {
@@ -19,7 +19,11 @@ body {
     background-color:#ffa1ee;
  }
 
-    
+
+h1 {
+    text-align: center;
+}
+
 p{
     text-align:center; 
 }
