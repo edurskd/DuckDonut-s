@@ -5,8 +5,11 @@
 }
 
 .banerimage{
-    width: 100%;
-}
+    position: relative;
+    top: -2px;
+    right: 476px;
+ }
+ 
 
 .caixa {
     position: relative;
