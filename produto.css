@@ -82,6 +82,10 @@ nav a:hover {
     margin-top: 10px;
 }
 
+.botao {
+    alt:"image" height="350px" width="240px"
+}
+
 footer {
     text-align: center;
     background: url("bg.png");
@@ -95,6 +99,4 @@ footer {
     
 }
 
-.botao {
-    alt:"image" height="350px" width="240px"
-}
+
