@@ -3,6 +3,11 @@ header{
     padding: 20px 0;
 }
 
+.logo {
+    width: 250px;
+    height: 250px;
+}
+
 .caixa {
     position: relative;
     width: 940px;
