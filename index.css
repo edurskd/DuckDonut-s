@@ -15,11 +15,11 @@
     position: relative;
     width: 400px;
     margin: 0 auto;
-    background-color:#e329c179;
+    background-color:#0c713bdc;
 }
 
 body {
-    background-color:#ffa1ee;
+    background-color:#a4fdab;
  }
 
 
@@ -46,8 +46,10 @@ p{
  footer {
     text-align: center;
     background: url();
-    padding: 10px 0;
-    background-color:#d308ae;
+    padding: 40px 0;
+    background-color:#015905;
+    width: 940px;
+    margin: 0 auto;
  }
 
  
