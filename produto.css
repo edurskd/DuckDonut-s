@@ -65,11 +65,11 @@ h2 {
 }
 
 .produtos li:hover {
-    border-color: #FDB78D;
+    border-color: #68c95f;
 }
 
 .produtos li:active {
-    border-color: #FDB78D;
+    border-color: #368207;
 }
 
 .produtos li:hover h2 {
@@ -93,7 +93,7 @@ h2 {
 }
 
 .botao {
-    alt:"image" height="350px" width="240px"
+    alt:"image"; height: 300px; width: 400px;
 }
 
 footer {
